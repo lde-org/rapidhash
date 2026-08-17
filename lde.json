@@ -1,5 +1,7 @@
-	{
-		"name": "rapidhash",
-		"version": "0.1.0",
-		"dependencies": {}
-	}
+{
+	"name": "rapidhash",
+	"description": "LuaJIT implementation of rapidhash.",
+	"authors": ["David Cruz <david@bycruz.dev>"],
+	"version": "0.1.0",
+	"dependencies": {}
+}
